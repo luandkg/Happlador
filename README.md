@@ -14,6 +14,9 @@
  - Criar um programa Editor de Texto para Happlador
  - Funções Implementadas :
 	
+	- Digitar com teclado
+	- Digitar com clique no símbolo
+
 	- Copiar
 	- Colar
 	- Recorar
