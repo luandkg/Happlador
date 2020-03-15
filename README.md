@@ -3,7 +3,7 @@
 ## Projeto Happlador - 2019 / 02
 
 
- - Sistema de Escrita Alienega
+ - Sistema de Escrita Alienígena
 
 
 ![Tronarko_01](https://github.com/luandkg/Happlador/blob/master/prints/happlador_01.png)
